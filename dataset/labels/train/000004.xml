@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>000004.jpg</filename>
+	<path>/Users/alexandrpustovit/Library/CloudStorage/GoogleDrive-aleksandrpustovit8@gmail.com/My Drive/YOLO_V11_FIRST/dataset/images/train/000004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2532</width>
+		<height>1563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>falcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1689</xmin>
+			<ymin>12</ymin>
+			<xmax>2346</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>falcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>12</ymin>
+			<xmax>975</xmax>
+			<ymax>1516</ymax>
+		</bndbox>
+	</object>
+</annotation>
