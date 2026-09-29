@@ -1,0 +1,5 @@
+train: ./dataset/images/train
+validation: ./dataset/images/validation
+
+nc : 1
+name: ["falcon"]

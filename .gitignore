@@ -1,0 +1,13 @@
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+runs/
+datasets/
+dataset/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
